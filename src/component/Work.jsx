@@ -6,7 +6,7 @@ const Work = () => {
       <div className="grid md:grid-cols-2 h-full justify-items-center items-center">
         <ul 
           className='text-6xl text-transparent cursor-pointer'
-          style={{'-webkit-text-stroke': '1px white'}}
+          style={{WebkitTextStroke: '1px white'}}
         >
           <li className='hover:text-white duration-500'>Design</li>
           <li className='hover:text-white duration-500'>Development</li>
