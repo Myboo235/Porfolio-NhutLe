@@ -2,8 +2,8 @@ import React from 'react'
 
 const Work = () => {
   return (
-    <section className='h-[100vh]'>
-      <div className="grid md:grid-cols-2 h-full justify-items-center items-center">
+    <section className='h-[100vh] '>
+      <div className="grid xl:grid-cols-2 h-full justify-items-center items-center">
         <ul 
           className='text-6xl text-transparent cursor-pointer'
           style={{WebkitTextStroke: '1px white'}}
