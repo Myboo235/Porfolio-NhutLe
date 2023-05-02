@@ -10,8 +10,8 @@ const Navbar = () => {
   return (
     <section className='h-[15rem] sm:h-2'>
         <div className='grid grid-cols-2 pt-4'>
-            <div className='cursor-pointer z-20'>
-                <img className='max-w-[10rem]' src="../src/assets/Logo.png" alt="" />
+            <div className='z-20'>
+                <img className='cursor-pointer max-w-[10rem]' src="../src/assets/Logo.png" alt="" />
             </div>
             <div className='grid xl:grid justify-items-end sm:justify-items-center mx-5'>
                 <div className={`mt-4 sm:hidden ${showNav ? 'hidden' :''}`} onClick={toggleNav}>
@@ -21,6 +21,7 @@ const Navbar = () => {
                 <div className={`mt-4 sm:hidden ${showNav ? '' :'hidden'}`} onClick={toggleNav}>
                     <AiOutlineClose size={25}/>
                 </div>
+                
                 
                 <ul className={`
                     mt-8

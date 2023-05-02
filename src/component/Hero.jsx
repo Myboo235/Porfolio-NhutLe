@@ -1,5 +1,5 @@
 import React from 'react'
-import Distort from './Distort'
+import Distort from './Canvas/Distort'
 
 const Hero = () => {
   return (

@@ -44,7 +44,7 @@ const Contact = () => {
         <div>
           <div className='my-[8rem] '>
             <iframe 
-              className='max-w-[30rem] h-[20rem] md:h-[30rem] w-[40rem]' 
+              className='max-w-[20rem] sm:max-w-[30rem] h-[20rem] md:h-[30rem] w-[40rem]' 
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3834.12045546699!2d108.20636587479852!3d16.05923788461885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x314219b6a647b1a9%3A0xfc519afb65b57bf3!2sMy%20coffee!5e0!3m2!1svi!2s!4v1682755825952!5m2!1svi!2s" 
               style={{border:0}} 
               loading="lazy" 

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Roller Skate With Wings
+* source:	https://sketchfab.com/3d-models/roller-skate-with-wings-d352d11ee06a4666a358765a4ccb551b
+* author:	dpid (https://sketchfab.com/dpid)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Roller Skate With Wings" (https://sketchfab.com/3d-models/roller-skate-with-wings-d352d11ee06a4666a358765a4ccb551b) by dpid (https://sketchfab.com/dpid) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
