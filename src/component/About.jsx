@@ -39,7 +39,7 @@ const About = () => {
                   {designs.cnt.to((val)=>Math.floor(val))}
               </animated.div>
             </span>
-            <span className='p-2 self-end justify-self-center text-white'>Customer</span>
+            <span className='p-2 self-end justify-self-center text-white'>Products</span>
           </div>
           <div className='grid w-[10rem] h-[10rem] border-2 rounded-lg '>
             <span className='p-2 self-center justify-self-center text-white text-5xl'>
@@ -47,7 +47,7 @@ const About = () => {
                   {staffs.cnt.to((val)=>Math.floor(val))}
               </animated.div>
             </span>
-            <span className='p-2 self-end justify-self-center text-white'>Customer</span>
+            <span className='p-2 self-end justify-self-center text-white'>Staffs</span>
           </div>
         </div>
         <div className= 'h-full grid justify-items-center sm:justify-items-start items-center'>

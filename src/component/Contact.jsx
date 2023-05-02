@@ -20,7 +20,9 @@ const Contact = () => {
   return (
     <section className=''>
       <div className='h-2/3 grid lg:grid-cols-2 items-center justify-items-center'>
+
         <form ref={form} onSubmit={handleSubmit} className='grid md:w-1/2'>
+          <span className='text-white text-5xl'>Contact with me</span>
           <label htmlFor="name" className='my-2'>
             <span className='text-md text-white'>Your name</span>
           </label>
@@ -50,8 +52,7 @@ const Contact = () => {
               loading="lazy" 
               referrerPolicy="no-referrer-when-downgrade"
             />
-          </div>
-          
+          </div> 
         </div>
       </div>
     </section>

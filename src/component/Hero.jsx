@@ -5,10 +5,9 @@ const Hero = () => {
   return (
     <section className='xl:h-[100vh]'>
         <div className="grid xl:grid-cols-2 h-full w-full justify-items-center items-center">
-            
             <div className='relative h-full w-full grid justify-items-center items-center'>
                 <Distort />
-                <img className='xl:absolute ml-auto mr-auto left-0 right-0  max-w-xs w-[18rem]' src="../src/assets/Hero.png" alt="" />
+                <img className='xl:absolute ml-auto mr-auto left-0 right-0  max-w-xs w-[18rem]' src="./assets/Hero.png" alt="" />
             </div>
             <div className='grid justify-center align-middle w-2/3 xl:-ml-64 mt-5'>
                 <p className='text-8xl text-justify font-bold  text-cyan-900'>Hello There</p> 
