@@ -51,7 +51,7 @@ const About = () => {
           </div>
         </div>
         <div className= 'h-full grid justify-items-center sm:justify-items-start items-center'>
-          <Cube />
+          {/* <Cube /> */}
         </div>
       </div>
     </section>
