@@ -1,6 +1,8 @@
 import React from 'react'
 import Cube from './Canvas/Cube'
 import { useSpring, animated } from 'react-spring'
+import ConceptCar from './Canvas/ConceptCar';
+import ConceptCarCanvas from './Canvas/ConceptCar';
 
 const About = () => {
   const customer = useSpring({
@@ -51,7 +53,8 @@ const About = () => {
           </div>
         </div>
         <div className= 'h-full grid justify-items-center sm:justify-items-start items-center'>
-          <Cube />
+          {/* <Cube /> */}
+          <ConceptCarCanvas></ConceptCarCanvas>
         </div>
       </div>
     </section>
